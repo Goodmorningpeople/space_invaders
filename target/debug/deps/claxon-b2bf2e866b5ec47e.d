@@ -1,0 +1,11 @@
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/libclaxon-b2bf2e866b5ec47e.rmeta: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/crc.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/error.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/frame.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/input.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/metadata.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/subframe.rs
+
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/claxon-b2bf2e866b5ec47e.d: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/crc.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/error.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/frame.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/input.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/metadata.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/subframe.rs
+
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/lib.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/crc.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/error.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/frame.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/input.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/metadata.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/claxon-0.4.3/src/subframe.rs:

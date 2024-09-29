@@ -1,0 +1,10 @@
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/libbevy_app-c0704f944649b7f2.rmeta: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/app.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/main_schedule.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/plugin.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/plugin_group.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/schedule_runner.rs
+
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/bevy_app-c0704f944649b7f2.d: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/app.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/main_schedule.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/plugin.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/plugin_group.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/schedule_runner.rs
+
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/lib.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/app.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/main_schedule.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/plugin.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/plugin_group.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/schedule_runner.rs:

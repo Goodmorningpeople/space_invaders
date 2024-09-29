@@ -1,0 +1,10 @@
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/libbevy_audio-48841fc5446d111a.rmeta: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio_output.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio_source.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/pitch.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/sinks.rs
+
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/bevy_audio-48841fc5446d111a.d: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio_output.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio_source.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/pitch.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/sinks.rs
+
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/lib.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio_output.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/audio_source.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/pitch.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.12.1/src/sinks.rs:

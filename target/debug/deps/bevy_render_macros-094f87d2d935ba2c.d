@@ -1,0 +1,8 @@
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/libbevy_render_macros-094f87d2d935ba2c.dylib: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/as_bind_group.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/extract_component.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/extract_resource.rs
+
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/deps/bevy_render_macros-094f87d2d935ba2c.d: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/lib.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/as_bind_group.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/extract_component.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/extract_resource.rs
+
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/lib.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/as_bind_group.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/extract_component.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_render_macros-0.12.1/src/extract_resource.rs:

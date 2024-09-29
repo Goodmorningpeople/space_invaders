@@ -1,0 +1,9 @@
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/build/clang-sys-22400c741282c86f/build_script_build-22400c741282c86f: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs
+
+/Users/zacharychua/Documents/Development/learning_materials/rust_course/target/debug/build/clang-sys-22400c741282c86f/build_script_build-22400c741282c86f.d: /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs /Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs
+
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs:
+/Users/zacharychua/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs:
